@@ -1,4 +1,4 @@
-# GAMES101
+# GAMES101 Introduction to Computer Graphics
 GAMES101 Assignments
 
 ### Assignment 1 Rotation
