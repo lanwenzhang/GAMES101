@@ -1,5 +1,7 @@
 # GAMES101 Introduction to Computer Graphics
 GAMES101 Assignments
+C++
+Libraies: Eigen, OpenCV
 
 ### Assignment 1 Rotation
 Create a rotation matrix and perspective projection matrix for a triangle
