@@ -3,7 +3,7 @@ GAMES101 Assignments
 C++
 Libaries: Eigen, OpenCV
 
-### Assignment 1 Rotation
+### Assignment 1 Rotation and Projection
 Create a rotation matrix and perspective projection matrix for a triangle
 
 ![Assignment1](https://github.com/lanwenzhang/GAMES101-Introduction-to-Computer-Graphics/assets/86000552/97174f80-3f74-48a6-b6e5-65d5f14f91b3)
