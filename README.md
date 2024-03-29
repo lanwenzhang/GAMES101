@@ -1,5 +1,5 @@
 # GAMES101 Introduction to Computer Graphics
-GAMES101 Assignments
+This course comprehensively and systematically introduces the four major components of modern computer graphics: (1) rasterization imaging, (2) geometric representation, (3) the theory of light propagation, and (4) animation and simulation.
 
 ## Environment
 * Platform: Visual Studio 2022
