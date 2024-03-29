@@ -10,6 +10,7 @@ Create a rotation matrix and perspective projection matrix for a triangle
 
 ### Assignment 2 Triangles and Z-Buffering
 Render two triangles with rasterization algorithm
+![Assignment2](https://github.com/lanwenzhang/GAMES101-Introduction-to-Computer-Graphics/assets/86000552/2cc65d94-0516-41b3-9286-8d4628bad13a)
 
 ### Assignment 3 Pipeline and Shading
 
