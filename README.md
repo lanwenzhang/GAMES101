@@ -11,7 +11,7 @@ This is a repository for GAMES101 course assignments. The course comprehensively
 ## Assignment Output
 
 ### 1 Rotation and Projection
-Make a rotation and perspective projection transformation for a triangle
+Make rotation and projection transformations for a triangle
 
 ![Assignment1](https://github.com/lanwenzhang/GAMES101-Introduction-to-Computer-Graphics/assets/86000552/97174f80-3f74-48a6-b6e5-65d5f14f91b3)
 
