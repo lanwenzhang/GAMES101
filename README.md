@@ -27,7 +27,7 @@ Render two triangles with rasterization algorithm
 
 #### 3.2 Shading with Blinn–Phong Reflection Model
 
-
+![phong](https://github.com/lanwenzhang/GAMES101-Introduction-to-Computer-Graphics/assets/86000552/586fbebb-7321-434a-8022-978a8eb5c4b3)
 
 ### 4 Bézier Curve
 
