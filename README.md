@@ -21,9 +21,12 @@ Render two triangles with rasterization algorithm
 ![Assignment2](https://github.com/lanwenzhang/GAMES101-Introduction-to-Computer-Graphics/assets/86000552/2cc65d94-0516-41b3-9286-8d4628bad13a)
 
 ### 3 Pipeline and Shading
-#### 3.1 Normal shading
+#### 3.1 Normal Shading
 
 ![normal](https://github.com/lanwenzhang/GAMES101-Introduction-to-Computer-Graphics/assets/86000552/2503f26f-5e52-4dc4-9c2c-eb1b6c7da686)
+
+#### 3.2 Shading with Blinn–Phong Reflection Model
+
 
 
 ### 4 Bézier Curve
