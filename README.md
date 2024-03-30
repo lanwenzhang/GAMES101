@@ -23,11 +23,24 @@ Render two triangles with rasterization algorithm
 ### 3 Pipeline and Shading
 #### 3.1 Normal Shading
 
-![normal](https://github.com/lanwenzhang/GAMES101-Introduction-to-Computer-Graphics/assets/86000552/2503f26f-5e52-4dc4-9c2c-eb1b6c7da686)
+![normal](https://github.com/lanwenzhang/GAMES101-Introduction-to-Computer-Graphics/assets/86000552/db3fa395-7b12-4dd1-bc62-fe5456dfd67a)
 
 #### 3.2 Shading with Blinn–Phong Reflection Model
 
-![phong](https://github.com/lanwenzhang/GAMES101-Introduction-to-Computer-Graphics/assets/86000552/586fbebb-7321-434a-8022-978a8eb5c4b3)
+![phong](https://github.com/lanwenzhang/GAMES101-Introduction-to-Computer-Graphics/assets/86000552/eb71224f-b140-4958-aba9-4b44d642b970)
+
+#### 3.3 Texture Mapping
+
+![texture](https://github.com/lanwenzhang/GAMES101-Introduction-to-Computer-Graphics/assets/86000552/5b77f4be-510c-4852-ae5d-38931f5be3d1)
+
+#### 3.4 Bump Mapping
+
+![bump](https://github.com/lanwenzhang/GAMES101-Introduction-to-Computer-Graphics/assets/86000552/182d84be-efc6-473c-90dd-408f0ca924b9)
+
+#### 3.5 Displacement Mapping
+
+![displacement](https://github.com/lanwenzhang/GAMES101-Introduction-to-Computer-Graphics/assets/86000552/161880de-5b78-4a1d-9c69-ef3646e2fcea)
+
 
 ### 4 Bézier Curve
 
