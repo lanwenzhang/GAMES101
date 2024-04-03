@@ -44,6 +44,9 @@ Render two triangles with rasterization algorithm
 
 ### 4 Bézier Curve
 
+Draw Bézier Curve with De Casteljau's algorithm
+
+![Assignment4](https://github.com/lanwenzhang/GAMES101-Introduction-to-Computer-Graphics/assets/86000552/03c7c715-b697-4c9c-bf6d-88b04438343c)
 
 ### 5 Ray Tracing
 
