@@ -50,6 +50,9 @@ Draw Bézier Curve with De Casteljau's algorithm
 
 ### 5 Ray Tracing
 
+Render a scene based on Witted-Style Ray Tracing
+
+![Assignment5](https://github.com/lanwenzhang/GAMES101-Introduction-to-Computer-Graphics/assets/86000552/24fd2c6c-d89c-4ead-a893-ee7198c0255b)
 
 ### 6 Bounding Volume Hierarchy
 
