@@ -56,6 +56,10 @@ Render a scene based on Witted-Style Ray Tracing
 
 ### 6 Bounding Volume Hierarchy
 
+Accelerate Ray Tracing with BVHs
+
+![Assignment6](https://github.com/lanwenzhang/GAMES101-Introduction-to-Computer-Graphics/assets/86000552/78d6a042-f2a4-4a51-bfaa-d619429be366)
+
 
 ### 7 Path Tracing
 
