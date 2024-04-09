@@ -60,8 +60,10 @@ Accelerate Ray Tracing with BVHs
 
 ![Assignment6](https://github.com/lanwenzhang/GAMES101-Introduction-to-Computer-Graphics/assets/86000552/78d6a042-f2a4-4a51-bfaa-d619429be366)
 
-
 ### 7 Path Tracing
 
+Render the Connel Box scene based on Morte Carlo Path Tracing Method
+
+![Assignment7_SPP16](https://github.com/lanwenzhang/GAMES101-Introduction-to-Computer-Graphics/assets/86000552/ff5b987c-e309-4ce5-9588-dbc92e3dbd73)
 
 ### 8 Mass-Spring System
